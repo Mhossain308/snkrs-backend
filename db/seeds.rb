@@ -37,5 +37,6 @@ favorite = Favorite.create!(
 )
 
 
+
 puts "🔥🔥🔥"
 
